@@ -1,5 +1,3 @@
-C:\Users\sagi\Documents\GitHub\Rewrite-History
-
 import PyPDF2
 import io
 import os
