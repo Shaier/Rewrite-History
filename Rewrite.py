@@ -1,6 +1,6 @@
 #Change working directory to make it easier to access the files
 import os
-os.chdir("/content/gdrive/My Drive/Colab Notebooks/Rewrite")
+os.chdir("C:\Users\sagi\Documents\GitHub\Rewrite-History")
 os.getcwd()
 
-#new 
+#new
