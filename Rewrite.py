@@ -92,7 +92,7 @@ def get_batches(int_text, batch_size, seq_length):
     return np.array(batch_data)
 
 #Define hyperparameters - depending on your computer's strength you might need to change it
-num_epochs = 70
+num_epochs = 1
 batch_size = 256
 rnn_size = 256
 num_layers = 3
@@ -197,7 +197,7 @@ import numpy as np
 import pickle
 
 corpus_int, vocab_to_int, int_to_vocab, token_dict = pickle.load(open('preprocess.p', mode='rb'))
-seq_length, save_dir = pickle.load(open('C:\Users\sagi\Documents\GitHub\Rewrite-History\params.p', mode='rb'))
+seq_length, save_dir = pickle.load(open('C:\\Users\\sagi\\Documents\\GitHub\\Rewrite-History\\params.p', mode='rb'))
 
 #Generate Text
 
