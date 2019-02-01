@@ -8,7 +8,7 @@ In this project I will use RNN to read 7 different history books and create a ne
 
 # The Decisive Battles of World History
 # A Brief History of the World
-# AMERICA NARRATIVE HISTORY
+# AMERICA- a narrative history
 # A short history of the united states
 # Atlas-of-world-history
 # Secret_History
