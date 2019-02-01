@@ -1,7 +1,7 @@
 # Rewrite History
-===========
 
-# Intro
+
+## Intro
 In this project I will use RNN to read 7 different history books and create a new one.
 
 # The books I used were randomly chosen from a free website and they are:
