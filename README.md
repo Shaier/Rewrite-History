@@ -13,7 +13,7 @@ In this project I will use RNN to read 7 different history books and create a ne
 * Atlas-of-world-history  
 * Secret_History  
 * The Oxford History Of The Classical World  
-
-
-
-* The convert.py file will convert pdf files to txt files, while the Rewrite.py	file will create the text.
+  
+   
+   
+The convert.py file will convert pdf files to txt files, while the Rewrite.py	file will create the text.
