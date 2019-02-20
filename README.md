@@ -2,7 +2,7 @@
 
 
 ## Intro
-In this project I used RNN to "read" 7 different history books and create a new one.
+In this project I used RNN to "read" 7 different history books and write a new one.
 
 # The books I used were randomly chosen from a free website and they are:
 
