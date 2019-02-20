@@ -16,4 +16,5 @@ In this project I used RNN to "read" 7 different history books and write a new o
   
    
    
-The [convert.py](Convert.py) file will convert pdf files to txt files, while the [Rewrite.py](Rewrite.py)	file will create the text.
+The [convert.py](Convert.py) file will convert pdf files to txt files, while the [Rewrite.py](Rewrite.py)	file will create the text.  
+The results are currently minimal.
